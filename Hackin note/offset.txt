@@ -1,0 +1,21 @@
+font US rom :692F60                 địa chỉ font của rom USA
+font EU rom :692F70                 địa chỉ font của rom EUR
+font JP rom :6937C0                 địa chỉ font của rom JPN
+table pointer:nằm trc mỗi block text
+(06012200..06012220)!               break point
+325567                              độ dài toàn bộ khối text
+Title US    :8D6760					8CD860
+thelegendof :8CC3C0
+Logo US     :8C2280
+language    :8E9160
+massagespeed:8E9460
+enter a name:8F3AE0
+item        :912F20
+save		:917DA0
+map			:9304C0
+dungeonfloor:931B60
+map			:934CA0
+cancel		:2EB934
+copy		:8E89E0
+DE7DA4                              Vị trí trống trong rom (k chứa data)
+E26B5B: 								đang lấn cấn
